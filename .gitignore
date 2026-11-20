@@ -1,0 +1,11 @@
+# Dataset (downloaded by the notebook, do not upload)
+deepdyn/
+data/
+
+# Figures the notebook saves when it runs (curated copies are in results/)
+figures/
+
+# Mac and Jupyter clutter
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
